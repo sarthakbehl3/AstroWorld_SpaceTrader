@@ -17,7 +17,7 @@ public class Store {
 
 
     public void populateStoreInventory() {
-            
+
     }
 
 
@@ -212,8 +212,8 @@ public class Store {
 
             }
             return base;
-
         }
+        //push to solve conflict
 
     }
 
